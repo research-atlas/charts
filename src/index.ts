@@ -1,4 +1,4 @@
 import { createSections } from "./create-section";
-import "circular-std";
+import "@vetixy/circular-std";
 
 createSections();

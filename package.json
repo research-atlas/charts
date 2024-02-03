@@ -12,19 +12,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chart.js": "^2.8.0",
-    "circular-std": "^1.0.0"
+    "@vetixy/circular-std": "^1.0.0",
+    "chart.js": "^2.8.0"
   },
   "devDependencies": {
     "@types/chart.js": "^2.7.56",
     "@types/node": "^12.6.9",
     "@typescript-eslint/eslint-plugin": "^1.13.0",
     "@typescript-eslint/parser": "^1.13.0",
-    "eslint": "^6.1.0",
+    "eslint": "^5.16.0",
     "fs-extra": "^8.1.0",
     "globby": "^10.0.1",
     "papaparse": "^5.0.1",
-    "parcel": "^1.12.3",
-    "typescript": "^3.5.3"
+    "parcel": "1.12.3",
+    "typescript": "3.5.3"
   }
 }
