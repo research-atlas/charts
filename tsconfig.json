@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"rootDir": "src",
+		"outDir": "build",
+		"esModuleInterop": true,
+		"resolveJsonModule": true
+	},
+	"include": [
+		"src/**/*",
+		"**/*.json"
+	],
+	"exclude": [
+		"node_modules",
+		"**/__mocks__/*.ts",
+		"**/*.spec.ts"
+	]
+}

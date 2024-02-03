@@ -1,0 +1,30 @@
+body,
+html {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #F7F9FA;
+	font-family: CircularStd, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+section {
+	background: #fff;
+	width: 95%;
+	width: calc(100vw - 80px);
+	max-width: 1600px;
+	margin: 40px auto;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+h1 {
+	margin-top: 0;
+	font-weight: 500;
+	font-size: 2.2vw;
+}
+
+.wrapper {
+	position: relative;
+}
