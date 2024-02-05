@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=development parcel src/index.html",
-    "build": "parcel build --public-url /charts/ src/index.html",
+    "build": "parcel build src/index.html",
     "convert": "node ./convert.js"
   },
   "keywords": [],
